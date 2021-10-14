@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <time.h>
-#include "liblinked_list/lib/data.h" // <-- Creata da me (〜￣▽￣)〜
-#include "liblinked_list/lib/list.h" // <-- Creata da me 〜(￣▽￣〜)
-#include "liblinked_list/lib/list_util.h" // <-- Creata da me ヘ(￣ω￣ヘ)
+#include "liblinked_list/lib/data.h"
+#include "liblinked_list/lib/list.h"
+#include "liblinked_list/lib/list_util.h"
 
 /* 
 * ૮(-.-)ა Libreria completa: 
